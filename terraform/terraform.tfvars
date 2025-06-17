@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "testtwo"
+project = "testtwo"
+repository_url = "https://github.com/craffapptest1/default_user_portfolio00600.git"
+branch = "master"
+db_password = "testtwo_password"
+db_username = "postgres"
+db_name = "testtwo_db"
